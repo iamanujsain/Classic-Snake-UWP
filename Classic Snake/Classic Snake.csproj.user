@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\subod\Desktop\ic_launcher.png</Source>
+    <SmallTileSource>C:\Users\subod\Desktop\ic_launcher.png</SmallTileSource>
+    <MediumTileSource>C:\Users\subod\Desktop\ic_launcher.png</MediumTileSource>
+    <WideTileSource>C:\Users\subod\Desktop\ic_launcher.png</WideTileSource>
+    <LargeTileSource>C:\Users\subod\Desktop\ic_launcher.png</LargeTileSource>
+    <AppIconSource>C:\Users\subod\Desktop\ic_launcher.png</AppIconSource>
+    <SplashScreenSource>C:\Users\subod\Desktop\ic_launcher.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\subod\Desktop\ic_launcher.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\subod\Desktop\ic_launcher.png</BadgeLogoSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>

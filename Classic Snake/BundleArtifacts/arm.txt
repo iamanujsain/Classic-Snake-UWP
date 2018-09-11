@@ -1,0 +1,5 @@
+MainPackage=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\ARM\Release\Classic Snake_1.0.1.0_ARM.appx
+ResourcePack=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\ARM\Release\Classic Snake_1.0.1.0_scale-100.appx
+ResourcePack=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\ARM\Release\Classic Snake_1.0.1.0_scale-125.appx
+ResourcePack=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\ARM\Release\Classic Snake_1.0.1.0_scale-150.appx
+ResourcePack=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\ARM\Release\Classic Snake_1.0.1.0_scale-400.appx

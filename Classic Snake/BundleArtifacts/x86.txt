@@ -1,0 +1,1 @@
+MainPackage=C:\Users\subod\Desktop\code\UWP\Classic Snake\Classic Snake\bin\x86\Release\Classic Snake_1.0.1.0_x86.appx
